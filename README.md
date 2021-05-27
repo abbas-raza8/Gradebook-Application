@@ -9,7 +9,7 @@ A gradebook application developed in Java which allows teachers to input and man
 
 ---
 
-## Implemenatation:
+## Implementation:
 * Array of Objects
 * Linked Lists
 * Arrays and Loops
